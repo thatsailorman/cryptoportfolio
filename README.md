@@ -1,5 +1,5 @@
 ## Crypto Portfolio CMS
-An open-source Crypto Portfolio php script. Calculate your investment profits in percentage and EUR or USD. All your quick stats on one page.
+An open-source Crypto Portfolio php script. Calculate your investment profits in percentage and EUR or USD. All your quick stats on one page. All made possible thanks to the CryptoCompare API!
 
 ![Preview](http://cointools.nl/cryptoportfolio-preview.jpg)
 
@@ -15,8 +15,11 @@ Password: **password**
 
 
 
-**Screenshots:**
+### Screenshots:
 ![Screenshot](http://cointools.nl/uploads/screenshot1-cryptoportfolio.JPG)
+
+Uncomment a line to show charts on your dashboard:
+![Screenshot](http://cointools.nl/uploads/grafiek.JPG)
 
 Feel free to help out by adding new functions, codes, charts etc. to the Crypto Portfolio CMS code.
 
@@ -38,3 +41,6 @@ In the same folder (php) open config.php, and change fiat to USD or EUR.
 That's it! Visit your url in your browser and log in by using **demo** as username, and **password** as password.
 IMPORTANT to change your username and password directly after your first login!
 
+
+CryptoCompare API: https://www.cryptocompare.com/api/
+Layout by CreativeTim: https://www.creative-tim.com/product/paper-dashboard
