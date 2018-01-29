@@ -139,7 +139,7 @@ embedder.parentNode.appendChild(s);
 
         	$.notify({
             	icon: 'ti-gift',
-            	message: "Welcome back to yout <b>Crypto Portfolio Dashboard</b>. You like our script? Feel free to make a small donation so we can keep working in our project. :)"
+            	message: "Welcome back to your <b>Crypto Portfolio Dashboard</b>. You like our script? Feel free to make a small donation so we can keep working in our project. :)"
 
             },{
                 type: 'success',
