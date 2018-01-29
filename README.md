@@ -1,11 +1,19 @@
 ## Crypto Portfolio CMS
 An open-source Crypto Portfolio php script. Calculate your investment profits in percentage and EUR or USD. All your quick stats on one page.
 
-![Preview](http://cointools.nl/uploads/cryptoportfolio-preview.jpg)
+![Preview](http://cointools.nl/cryptoportfolio-preview.jpg)
 
 - Automatically show currency ICON.
 - Add and delete new crypto-currencies directly to your self-hosted Crypto Portfolio from the front-end of the CMS.
 - Calculates profit or loss in percentage and currency of choice (USD $ or EUR €)
+
+## LIVE DEMO?
+For a LIVE DEMO, visit: http://cointools.nl/portfoliodemoGITHUB/
+
+Log in with username: **demo**
+Password: **password**
+
+
 
 **Screenshots:**
 ![Screenshot](http://cointools.nl/uploads/screenshot1-cryptoportfolio.JPG)
