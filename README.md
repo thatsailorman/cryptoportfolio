@@ -26,7 +26,7 @@ Feel free to help out by adding new functions, codes, charts etc. to the Crypto 
 Happy trading!
 
 ### How to start?
-Short explaination below... For a Dutch documentation, click here: https://cryptobelasting.ams3.digitaloceanspaces.com/CryptoPortfolioCMS-documentatie.pdf
+For a Dutch documentation, click here: https://cryptobelasting.ams3.digitaloceanspaces.com/CryptoPortfolioCMS-documentatie.pdf
 
 **Step one:** Download all script files from this github page.
 This version is in English language. For the Dutch version, download link here: http://cointools.nl/download_cryptoportfolio.php
