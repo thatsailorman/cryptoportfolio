@@ -41,6 +41,7 @@ In the same folder (php) open config.php, and change fiat to USD or EUR.
 **Step five:** Create a file called: .htaccess (yes, including the dot at the beginning .htaccess) and add the following two lines to the .htaccess file:
 
 RewriteEngine on
+
 RewriteRule ^(.*)\.html$ $1.php [L]
 
 **All done!**
