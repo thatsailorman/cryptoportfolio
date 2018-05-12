@@ -38,6 +38,13 @@ This version is in English language. For the Dutch version, download link here: 
 **Step four:** Go to folder 'php', and edit db.php with your database information (database name, username, password etc).
 In the same folder (php) open config.php, and change fiat to USD or EUR.
 
+**Step five:** Create a file called: .htaccess (yes, including the dot at the beginning .htaccess) and add the following two lines to the .htaccess file:
+
+RewriteEngine on
+RewriteRule ^(.*)\.html$ $1.php [L]
+
+**All done!**
+
 That's it! Visit your url in your browser and log in by using **demo** as username, and **password** as password.
 IMPORTANT to change your username and password directly after your first login!
 
