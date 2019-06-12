@@ -1,4 +1,7 @@
 ## Crypto Portfolio CMS
+
+Warning: changes have been made to the CryptoCompare API, one must now sign up for a API key (it used to be fully open), so this script currently doesn't fetch the coin values. In other words: This code needs some changes in order to make the new CryptoCompare API work.
+
 An open-source Crypto Portfolio php script. Calculate your investment profits in percentage and EUR or USD. All your quick stats on one page. All made possible thanks to the CryptoCompare API!
 
 ![Preview](http://cointools.nl/cryptoportfolio-preview.jpg)
